@@ -1,2 +1,2 @@
-beta-01: base
-beta-02: base
+beta-01: head
+beta-02: head
